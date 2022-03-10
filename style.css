@@ -210,7 +210,7 @@ flex-wrap: wrap;
 @media(max-width:574px) {
     #counters .container {
         height: 350px;
-        background-size: 35%;
+        background-size: 30%;
         margin: 0 10px;
         background-position: left;
         background-repeat: no-repeat;
@@ -221,11 +221,10 @@ flex-wrap: wrap;
         display: flex;
         align-items: flex-start;
         flex-direction: column;
-        padding-top: 3px;
-	margin-right: 80px;
+	margin-right: 100px;
     }
     .numbers .counter {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
     }
 }
 /*New York*/
