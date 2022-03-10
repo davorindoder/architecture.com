@@ -219,7 +219,7 @@ flex-wrap: wrap;
     }
     .numbers {
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         flex-direction: column;
         padding-top: 3px;
 	margin-right: 80px;
